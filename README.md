@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/EDGEofMRI/edgeofmri/blob/main/EDGEofMRI%20LOGO%20GIF%20280%20v%20trans.gif" width="200"/>
 <div id="badges">
   <a href="https://linkedin.com/in/edgeofmri">
     <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,10 +32,12 @@
     <img src="https://komarev.com/ghpvc/?username=edgeofmri&style=flat-square&color=green" alt=""/>
 </div>
 
+<div align="center">
 <h1>
   💡 Data-Driven Problem Solver Turning Creativity into Codes
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ5dXhlY2VpaXRzNWJuY29lZTNhczFtcXlya2dyd3gzajE3eHl3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="50px"/>
 </h1>
+</div>
 
 <div>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkMzN2a3k2M2xiZ2xnZGdjbDZianB0c3c1eTVkMjd6OGt3NTN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200"/>
