@@ -32,19 +32,16 @@
     <img src="https://komarev.com/ghpvc/?username=edgeofmri&style=flat-square&color=green" alt=""/>
 </div>
 
-<div align="center">
-<h1>
-  💡 Data-Driven Problem Solver Turning Creativity into Codes
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ5dXhlY2VpaXRzNWJuY29lZTNhczFtcXlya2dyd3gzajE3eHl3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="50px"/>
+<h1 align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ5dXhlY2VpaXRzNWJuY29lZTNhczFtcXlya2dyd3gzajE3eHl3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nNvZTDJq8pSngnblOs/giphy.gif" width="50px"/>  Data-Driven Problem Solver Turning Creativity into Codes 
 </h1>
-</div>
 
-<div>
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdkMzN2a3k2M2xiZ2xnZGdjbDZianB0c3c1eTVkMjd6OGt3NTN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVxaXhkMnlkM294b3VnZXZtOHluNHZ2emplcGg0eDZ5c3oyYnZoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTBW1D0MTq1qpS9OKW/giphy.gif" width="200" height="200"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQxZmJ0bHZ3d3pyYnFobmx3ZTMyeHRtamZzYmZkMXozeTFpNWR2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SBdPT2iTwVx4etuhAf/giphy.gif" width="200" height="200"/>
 </div>
-</div>
+
 
 ---
 
